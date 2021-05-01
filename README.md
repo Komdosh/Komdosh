@@ -14,6 +14,10 @@ In my spare time, I develop Android apps:
 - [**Monkey Tapping** - Multiplayer Clicker Game](https://play.google.com/store/apps/details?id=com.komdosh.slasol)
 
 By nature, I am an early bird, I can start working at 5-6 am and till late in the evening, depending on workload and terms.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komdosh&langs_count=8&layout=compact&count_private=true&exclude_repo=Komdosh.github.io)
+
 <!--
 **Komdosh/Komdosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
