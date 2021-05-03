@@ -17,6 +17,7 @@ By nature, I am an early bird, I can start working at 5-6 am and till late in th
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komdosh&langs_count=8&layout=compact&count_private=true&exclude_repo=Komdosh.github.io)
+![Komdosh's stat](https://github-readme-stats.vercel.app/api?username=Komdosh&show_icons=true&count_private=true&custom_title=Github%20Stats)
 
 <!--
 **Komdosh/Komdosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
