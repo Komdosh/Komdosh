@@ -16,10 +16,6 @@ In my spare time, I develop Android apps:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komdosh&langs_count=8&layout=compact&count_private=true&exclude_repo=Komdosh.github.io)
 ![Komdosh's stat](https://github-readme-stats.vercel.app/api?username=Komdosh&show_icons=true&count_private=true&custom_title=Github%20Stats)
 
-<hr />
-
-![Profile Views](https://gpvc.arturio.dev/komdosh)
-
 <!--
 **Komdosh/Komdosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
