@@ -14,7 +14,7 @@ In my spare time, I develop Android apps:
 - [**Monkey Tapping** - Multiplayer Clicker Game](https://play.google.com/store/apps/details?id=com.komdosh.tapping)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komdosh&langs_count=8&layout=compact&count_private=true&exclude_repo=Komdosh.github.io)
-![Komdosh's stat](https://github-readme-stats.vercel.app/api?username=Komdosh&show_icons=true&count_private=true&custom_title=Github%20Stats)
+<!-- ![Komdosh's stat](https://github-readme-stats.vercel.app/api?username=Komdosh&show_icons=true&count_private=true&custom_title=Github%20Stats) -->
 
 <!--
 **Komdosh/Komdosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
