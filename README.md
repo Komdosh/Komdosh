@@ -5,7 +5,7 @@ I have always been passionate about software engineering and creating solutions 
 
 **Education**: Master of Computer Science. Saint Petersburg State Electrotechnical University "LETI".
 
-**Interests**: Backend, Frontend, Mobile, AI, NLP. "Talk is cheap. Show me the code." ― Linus Torvalds. Check out my Github profile. I contribute to open-source projects.
+**Interests**: Backend, Frontend, Mobile, AI, NLP. "Talk is cheap. Show me the code." ― Linus Torvalds. Check out my repositories.
 
 **Scientific Researches**: Multiagent system, Multithreading and Multiprocessor programming. The results were presented at conferences: NSCF (Moscow, 2019), SPTDC (St. Petersburg, 2019), JWGEA (Kusatsu, Japan, 2018)
 
