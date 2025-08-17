@@ -9,6 +9,16 @@ I have always been passionate about software engineering and creating solutions 
 
 **Scientific Researches**: Multiagent system, Multithreading and Multiprocessor programming. The results were presented at conferences: NSCF (Moscow, 2019), SPTDC (St. Petersburg, 2019), JWGEA (Kusatsu, Japan, 2018)
 
+
+### Second of Fun
+
+- Do you have kubernetes?
+- Yes, I do!
+- You have kubernetes?!
+- Yes, everybody has!
+- Why?
+- Ahm, hm .....
+
 <!-- ![Komdosh's stat](https://github-readme-stats.vercel.app/api?username=Komdosh&show_icons=true&count_private=true&custom_title=Github%20Stats) -->
 
 <!--
