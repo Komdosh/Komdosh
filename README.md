@@ -10,7 +10,7 @@ I have always been passionate about software engineering and creating solutions 
 **Scientific Researches**: Multiagent system, Multithreading and Multiprocessor programming. The results were presented at conferences: NSCF (Moscow, 2019), SPTDC (St. Petersburg, 2019), JWGEA (Kusatsu, Japan, 2018)
 
 
-### Second of Fun
+### Fun
 
 - Do you have kubernetes?
 - Yes, I do!
